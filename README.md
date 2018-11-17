@@ -1,2 +1,3 @@
-# estudo-git-github
-Repositório para estudos do Git e GitHub
+# Estudo-git-github
+
+Repositório destinado para a realização de exercícios voltados para o estudo do Git e GitHub.
